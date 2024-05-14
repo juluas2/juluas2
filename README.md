@@ -1,0 +1,4 @@
+- 👋 oi, sou a julia, estudante do alura em busca de conhecimentos em programação.
+- ⚡ estou me dedicando ao mundo da tecnologia e desenvolvimento de software.
+- 💞️ gosto de compartilhar o que aprendo e trocar experiências com outros interessados na área.
+- 📫 sinta-se á vontade para explorar meu perfil e junte-se a mim nessa jornada de aprendizado!
